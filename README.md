@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50"/>
   </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
