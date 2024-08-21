@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashish</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Web Developer | Problem Solver</h3>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4df11156-c671-4c2b-a003-b74c11bc962d" style="width:50%; height:auto;">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashcode002x&label=Profile%20views&color=0e75b6&style=flat" alt="ashcode002x" /> </p>
 
