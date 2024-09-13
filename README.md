@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="#https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashcode002x" alt="ashcode002x" /></a> </p>
 
-- 🔭 I’m currently working on **SwipeTouch**
+- 🔭 I recently worked on **SwipeTouch**
 
 - 🌱 I’m currently learning **AI/ML**
 
