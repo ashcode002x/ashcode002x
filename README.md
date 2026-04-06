@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aashish836863@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JyaLlS-KgjDIffrIg1cWAqIA99EDrgIC/view?usp=drive_link](https://drive.google.com/file/d/1JyaLlS-KgjDIffrIg1cWAqIA99EDrgIC/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1fpcByng24Ym7gHXsw2_G4hDCm7fQsaOY/view?usp=drivesdk](https://drive.google.com/file/d/1fpcByng24Ym7gHXsw2_G4hDCm7fQsaOY/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
